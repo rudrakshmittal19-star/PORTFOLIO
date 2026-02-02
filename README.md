@@ -1,45 +1,38 @@
-Hi, I'm Rudraksh Mittal 👋
+Hi, I’m Rudraksh Mittal 👋
 
-Pre-Final Year B.Tech CSE (AI & ML) | Christ University  
-Data Engineering | Automation | AI Systems
+Pre-final year B.Tech Computer Science (AI & ML) student at Christ University
+Focused on Data Engineering, Automation, and Applied Machine Learning
 
---------------------------------------------------
+About Me
+I am a computer science student with hands-on experience building data pipelines, automation systems, and ML-ready workflows. I enjoy working on real-world problems involving both structured and unstructured data, with a strong interest in designing reliable systems that support machine learning applications.
 
-About  
-CS student with hands-on experience in data pipelines, automation, and intelligent systems.  
-Strong in Python, Java, and real-world problem solving.
+I have gained industry exposure through internships where I worked on data preprocessing, pipeline development, and practical AI workflows. I continuously build projects to strengthen my engineering fundamentals and applied ML skills.
 
---------------------------------------------------
+Skills
+Programming: Python, Java, C, SQL
+Data & Machine Learning: Data Preprocessing, Feature Engineering, Time-Series Basics
+Document Processing: pdfplumber, Camelot, PyMuPDF
+Tools & Platforms: Pandas, Jupyter Notebook, GitHub, Hugging Face
+Databases: MySQL, MongoDB
 
-Interested In  
-Data Engineering  
-Automation Systems  
-AI & Machine Learning  
-Backend & Intelligent Systems
+Highlight Projects
+Vehicle Inspection Data Pipeline
+Automated conversion of complex automotive PDFs into ML-ready JSON datasets.
 
---------------------------------------------------
+Stock Price Prediction Model (Ongoing)
+Time-series forecasting using Python and LSTM models for banking-sector data.
 
-Skills  
-Languages: Python, Java, C, SQL  
-Tools: Pandas, pdfplumber, Camelot, PyMuPDF, Jupyter  
-Platforms: GitHub, Hugging Face
+AI Smart Event Management Platform (SAP Vibethon)
+AI-powered platform for event scheduling and audience insights.
 
---------------------------------------------------
+ExoSky (NASA Space Apps Challenge 2024)
+Interactive exoplanet and constellation visualization platform.
 
-Projects  
-Vehicle Inspection Data Pipeline – Automated PDF to ML-ready JSON datasets  
-Eco-Friendly Automation System – Digital booking and sustainability platform  
-ExoSky (NASA Space Apps 2024) – Interactive exoplanet visualization  
-AI Smart Event Platform (SAP Vibethon) – AI-powered event management
-
---------------------------------------------------
-
-Experience  
-Engineering Intern – Droom Technology (2025)  
+Experience
+Engineering Intern – Droom Technology (2025)
 Marketing & Sales Intern – Metvy (2025)
 
---------------------------------------------------
+Contact
+Email: rudrakshmittal19@gmail.com
 
-Contact  
-Email: rudrakshmittal19@gmail.com  
 LinkedIn: https://www.linkedin.com/in/rudraksh-mittal19
